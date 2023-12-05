@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>mod_zipcode</name>
+    <author>Your Name</author>
+    <version>1.0.0</version>
+    <description>A simple module for entering zip code</description>
+    <files>
+        <filename>mod_zipcode.php</filename>
+        <filename>index.html</filename>
+        <folder>tmpl</folder>
+    </files>
+</extension>

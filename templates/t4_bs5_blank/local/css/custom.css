@@ -1,0 +1,7 @@
+.text-orange{
+  color : #b95100 !important;
+  text-transform: uppercase;
+}
+.item-caret{
+    display: none !important;
+}
